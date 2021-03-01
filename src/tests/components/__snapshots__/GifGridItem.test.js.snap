@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de componente <GifGridItem /> El componente debe coincidir con el snapshot 1`] = `
+<div
+  className="card animate__animated animate__flipInY"
+>
+  <img
+    alt="My fake image"
+    src="https://localhost/fake_image.png"
+  />
+  <p>
+    My fake image
+  </p>
+</div>
+`;

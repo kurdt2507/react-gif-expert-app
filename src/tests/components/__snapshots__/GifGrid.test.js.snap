@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre <GifGrid /> Valida que se cargue correctamente el componente comparando con el snapshot 1`] = `
+<Fragment>
+  <h3>
+    Caballeros del zodiaco
+  </h3>
+  <p
+    className="animate__animated animate__pulse"
+  >
+    Loading...
+  </p>
+  <div
+    className="card-grid animate__animated animate__fadeIn"
+  />
+</Fragment>
+`;
